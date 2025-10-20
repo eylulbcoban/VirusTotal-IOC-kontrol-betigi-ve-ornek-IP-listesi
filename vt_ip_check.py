@@ -2,8 +2,8 @@ import requests
 import json
 import os
 
-# VirusTotal API anahtarı (kendi anahtarınızı ekleyin)
-API_KEY = "your_api_key_here"
+# VirusTotal API anahtarı 
+API_KEY = "kullanıcı api keyi"
 VT_URL = "https://www.virustotal.com/api/v3/ip_addresses/"
 
 # Çıktı dizini oluştur
